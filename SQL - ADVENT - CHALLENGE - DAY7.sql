@@ -16,3 +16,8 @@
 --
 
 -- My Solution:
+--SFWGHOL
+PostgreSQL
+SELECT COUNT(DISTINCT flake_type) AS unique_snowflake
+FROM snowfall_log
+WHERE DATE(fall_time) = '2025-12-24';
