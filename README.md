@@ -9,5 +9,5 @@ The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL p
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
 
 
-# sql-practice
+sql-practice
 Collection of SQL queries and exercises from the SQL ADVENT CHALLENGE by InterviewMaster.ai
