@@ -1,6 +1,3 @@
-# sql-practice
-Collection of SQL queries and exercises from the SQL ADVENT CHALLENGE by InterviewMaster.ai
-
 # SQL Advent Calendar 2025
 
 This repository contains my solutions to Interview Master's 24-day SQL Advent Calendar challenge.
@@ -10,3 +7,7 @@ This repository contains my solutions to Interview Master's 24-day SQL Advent Ca
 The SQL Advent Calendar is a festive coding challenge featuring 24 days of SQL problems, hosted by Interview Master.
 
 Learn more at [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent)
+
+
+# sql-practice
+Collection of SQL queries and exercises from the SQL ADVENT CHALLENGE by InterviewMaster.ai
