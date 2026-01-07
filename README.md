@@ -1,2 +1,2 @@
 # sql-practice
-Collection of SQL queries, database exercises, projects, visualisations
+Collection of SQL queries and exercises from the SQL ADVENT CHALLENGE by InterviewMaster.ai
