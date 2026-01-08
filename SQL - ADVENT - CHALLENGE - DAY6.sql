@@ -17,3 +17,16 @@
 --
 
 -- My Solution:
+PostgreSQL
+--CTE, query, main_query
+WITH snowfall AS(
+  SELECT resort_id, resort_name,
+  SUM(snowfall_inches) AS total_snowfall
+  FROM resort_monthly_snowfall
+  GROUP BY resort_name,resort_id
+  
+  )
+SELECT 
+  resort_id,resort_name, total_snowfall,
+  NTILE(4) OVER (ORDER BY total_snowfall DESC) AS quartile
+FROM snowfall;
